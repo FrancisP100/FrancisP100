@@ -9,6 +9,8 @@
 
 <p align="center">
 <code><img height="150" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></code>
+   <code><img height="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
+
  
   <br/>
   <br/>
