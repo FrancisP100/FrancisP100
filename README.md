@@ -5,12 +5,10 @@
         <img src="https://github-readme-stats.vercel.app/api?username=FrancisP100&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues" alt="my_github_stats" height="150" />
 </a>
 <br/>
-<code><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancisP100&layout=compact&theme=tokyonight">
-    <code><img height="90" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></code>
-   <code><img height="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
- <code/>
- <br/>
-  <br/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancisP100&layout=compact&theme=tokyonight">
+    <img height="90" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
+  <img height="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+
   <p align="center"> 
   <img src="https://profile-counter.glitch.me/FrancisP100/count.svg" />
 </p>
