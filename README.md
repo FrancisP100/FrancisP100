@@ -11,10 +11,12 @@
 <br/>
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancisP100&layout=compact&theme=tokyonight">
 <br/>
-  <img height="90" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"/>
-  <img height="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
   <img height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img height="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+  <br/>
+  <img height="90" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"/>
+  <img height="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
   </p>
   <p align="center"> 
   <img src="https://profile-counter.glitch.me/FrancisP100/count.svg" />
