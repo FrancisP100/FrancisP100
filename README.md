@@ -18,6 +18,3 @@
   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/godot/godot-original.svg"/>
   </p>
-  <p align="center"> 
-  <img src="https://profile-counter.glitch.me/FrancisP100/count.svg" />
-</p>
